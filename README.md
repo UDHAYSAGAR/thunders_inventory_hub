@@ -1,20 +1,59 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ⚡ ThunderStock – Smart Inventory Management System
 
-# Run and deploy your AI Studio app
+ThunderStock is a minimal, modern, and user-friendly inventory management system designed to simplify stock management. It enables users to manage products, monitor inventory levels, identify low-stock items, and import/export Excel data through an intuitive interface.
 
-This contains everything you need to run your app locally.
+## ✨ Features
+- 📦 Add, edit, and delete products
+- 🔍 Search and filter inventory
+- 📊 Dashboard with inventory statistics
+- ⚠️ Low-stock and out-of-stock alerts
+- 📁 Excel import and export support
+- 🎨 Clean, responsive, and minimal UI
 
-View your app in AI Studio: https://ai.studio/apps/7ecad472-915a-49f3-82ee-a163acf33436
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- SheetJS (Excel Handling)
+- Local Storage
 
-## Run Locally
+## 📂 Project Structure
+```
+ThunderStock/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│── data/
+└── README.md
+```
 
-**Prerequisites:**  Node.js
+## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/thunderstock.git
+   ```
+2. Open the project folder.
+3. Launch `index.html` in your browser.
 
+## 📸 Features Demonstrated
+- Inventory Dashboard
+- Product Management
+- Search & Filter
+- Stock Monitoring
+- Excel Import/Export
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🔮 Future Enhancements
+- User Authentication
+- Role-Based Access
+- Barcode/QR Code Scanner
+- Cloud Database Integration
+- Sales & Purchase Management
+- AI-Based Demand Forecasting
+- Mobile Application
+
+## 👥 Team
+**Team Thunder**
+
+## 📄 License
+This project is developed for educational and internship purposes.
