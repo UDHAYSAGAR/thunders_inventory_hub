@@ -1,0 +1,6 @@
+{
+  "name": "Team Thunder Inventory Hub",
+  "description": "A clean, modern Inventory Management System configured for Indian standards (INR ₹) using an Excel spreadsheet as its database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
